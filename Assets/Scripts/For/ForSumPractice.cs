@@ -31,7 +31,7 @@ public class ForSumPractice : MonoBehaviour
             }
         }
 
-        Debug.Log($"합은 {sum + i}");
+        Debug.Log($"합은 {sum}");
     }
 
         
