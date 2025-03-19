@@ -25,6 +25,9 @@ namespace PrivatePublic
             //myCar.Bye();
 
 
+            myCar.SetAge(21);
+            int myAge = myCar.GetAge();
+            Debug.Log(myAge);
         }
     }
 }
